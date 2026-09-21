@@ -1,0 +1,1412 @@
+{
+  "schema_version": 1,
+  "screenshots": [
+    {
+      "id": "S07",
+      "path": "originals/admin-web/07-admin-web-super-admin-en-ltr-light-desktop-dashboard.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Content dashboard",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:31.042371+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Content dashboard",
+      "description": "Super administrator dashboard with local demonstration content and visit counts.",
+      "caption": "Super administrator dashboard with local demonstration content and visit counts.",
+      "alt": {
+        "en": "Super administrator dashboard with local demonstration content and visit counts.",
+        "ar": "لوحة المدير الأعلى بأعداد المحتوى والزيارات في البيئة التجريبية المحلية.",
+        "tr": "Yerel demo içerik ve ziyaret sayılarını gösteren üst yönetici paneli."
+      },
+      "claim_ids": [
+        "C05",
+        "C06"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S07-export",
+      "path": "exports/07-admin-web-super-admin-en-ltr-light-desktop-dashboard.png",
+      "status": "derivative",
+      "source_screenshot_id": "S07",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Content dashboard",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:31.042371+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Content dashboard",
+      "description": "Super administrator dashboard with local demonstration content and visit counts.",
+      "caption": "Super administrator dashboard with local demonstration content and visit counts.",
+      "alt": {
+        "en": "Super administrator dashboard with local demonstration content and visit counts.",
+        "ar": "لوحة المدير الأعلى بأعداد المحتوى والزيارات في البيئة التجريبية المحلية.",
+        "tr": "Yerel demo içerik ve ziyaret sayılarını gösteren üst yönetici paneli."
+      },
+      "claim_ids": [
+        "C05",
+        "C06"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S08",
+      "path": "originals/admin-web/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Inquiry review",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:39.993393+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/contacts/view.php?id=41",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Inquiry review",
+      "description": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+      "caption": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+      "alt": {
+        "en": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+        "ar": "المدير يراجع استفسار المنتج الافتراضي المحفوظ باسم Demo Buyer.",
+        "tr": "Yönetici Demo Buyer adlı kurgusal alıcının kayıtlı ürün talebini inceliyor."
+      },
+      "claim_ids": [
+        "C02"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S08-export",
+      "path": "exports/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "status": "derivative",
+      "source_screenshot_id": "S08",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Inquiry review",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:39.993393+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/contacts/view.php?id=41",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Inquiry review",
+      "description": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+      "caption": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+      "alt": {
+        "en": "Administrator reads the saved fictional product inquiry from Demo Buyer.",
+        "ar": "المدير يراجع استفسار المنتج الافتراضي المحفوظ باسم Demo Buyer.",
+        "tr": "Yönetici Demo Buyer adlı kurgusal alıcının kayıtlı ürün talebini inceliyor."
+      },
+      "claim_ids": [
+        "C02"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S09",
+      "path": "originals/admin-web/09-admin-web-super-admin-en-ltr-light-desktop-products.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Catalog administration",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:55.282446+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Catalog administration",
+      "description": "Super administrator product list with three fictional items and editing controls.",
+      "caption": "Super administrator product list with three fictional items and editing controls.",
+      "alt": {
+        "en": "Super administrator product list with three fictional items and editing controls.",
+        "ar": "قائمة المدير الأعلى لثلاثة منتجات افتراضية مع أدوات التحرير.",
+        "tr": "Üç kurgusal ürün ve düzenleme kontrolleriyle üst yönetici ürün listesi."
+      },
+      "claim_ids": [
+        "C03",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S09-export",
+      "path": "exports/09-admin-web-super-admin-en-ltr-light-desktop-products.png",
+      "status": "derivative",
+      "source_screenshot_id": "S09",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Catalog administration",
+      "role": "super_admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:55.282446+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Catalog administration",
+      "description": "Super administrator product list with three fictional items and editing controls.",
+      "caption": "Super administrator product list with three fictional items and editing controls.",
+      "alt": {
+        "en": "Super administrator product list with three fictional items and editing controls.",
+        "ar": "قائمة المدير الأعلى لثلاثة منتجات افتراضية مع أدوات التحرير.",
+        "tr": "Üç kurgusal ürün ve düzenleme kontrolleriyle üst yönetici ürün listesi."
+      },
+      "claim_ids": [
+        "C03",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S10",
+      "path": "originals/admin-web/10-admin-web-super-admin-ar-rtl-dark-desktop-dashboard.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic administration",
+      "role": "super_admin",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:00:41.454794+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/?admin_lang=ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic administration",
+      "description": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+      "caption": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+      "alt": {
+        "en": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+        "ar": "لوحة الإدارة العربية باتجاه من اليمين إلى اليسار ومظهر داكن مدمج.",
+        "tr": "Yerleşik koyu temada sağdan sola Arapça yönetim paneli."
+      },
+      "claim_ids": [
+        "C04",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S10-export",
+      "path": "exports/10-admin-web-super-admin-ar-rtl-dark-desktop-dashboard.png",
+      "status": "derivative",
+      "source_screenshot_id": "S10",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic administration",
+      "role": "super_admin",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:00:41.454794+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/?admin_lang=ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic administration",
+      "description": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+      "caption": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+      "alt": {
+        "en": "Arabic right-to-left dashboard with the built-in dark admin theme.",
+        "ar": "لوحة الإدارة العربية باتجاه من اليمين إلى اليسار ومظهر داكن مدمج.",
+        "tr": "Yerleşik koyu temada sağdan sola Arapça yönetim paneli."
+      },
+      "claim_ids": [
+        "C04",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S11",
+      "path": "originals/admin-web/11-admin-web-admin-en-ltr-dark-desktop-products.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Editor role",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:22.488574+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Editor role",
+      "description": "Regular administrator manages fictional products; account management is absent from navigation.",
+      "caption": "Regular administrator manages fictional products; account management is absent from navigation.",
+      "alt": {
+        "en": "Regular administrator manages fictional products; account management is absent from navigation.",
+        "ar": "المدير العادي يدير منتجات افتراضية؛ إدارة الحسابات غير ظاهرة في القائمة.",
+        "tr": "Normal yönetici kurgusal ürünleri yönetiyor; hesap yönetimi menüde bulunmuyor."
+      },
+      "claim_ids": [
+        "C03",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S11-export",
+      "path": "exports/11-admin-web-admin-en-ltr-dark-desktop-products.png",
+      "status": "derivative",
+      "source_screenshot_id": "S11",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Editor role",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:22.488574+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Editor role",
+      "description": "Regular administrator manages fictional products; account management is absent from navigation.",
+      "caption": "Regular administrator manages fictional products; account management is absent from navigation.",
+      "alt": {
+        "en": "Regular administrator manages fictional products; account management is absent from navigation.",
+        "ar": "المدير العادي يدير منتجات افتراضية؛ إدارة الحسابات غير ظاهرة في القائمة.",
+        "tr": "Normal yönetici kurgusal ürünleri yönetiyor; hesap yönetimi menüde bulunmuyor."
+      },
+      "claim_ids": [
+        "C03",
+        "C05"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S12",
+      "path": "originals/admin-web/12-admin-web-admin-en-ltr-dark-desktop-edit-product.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Localized content editor",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:44.045283+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products/form.php?id=13",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Localized content editor",
+      "description": "Product editor showing the saved English description for a fictional feeder.",
+      "caption": "Product editor showing the saved English description for a fictional feeder.",
+      "alt": {
+        "en": "Product editor showing the saved English description for a fictional feeder.",
+        "ar": "محرر المنتج يعرض الوصف الإنجليزي المحفوظ لمعلف افتراضي.",
+        "tr": "Ürün düzenleyicide kurgusal yemliğin kaydedilmiş İngilizce açıklaması."
+      },
+      "claim_ids": [
+        "C03"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S12-export",
+      "path": "exports/12-admin-web-admin-en-ltr-dark-desktop-edit-product.png",
+      "status": "derivative",
+      "source_screenshot_id": "S12",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Localized content editor",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:44.045283+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/products/form.php?id=13",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Localized content editor",
+      "description": "Product editor showing the saved English description for a fictional feeder.",
+      "caption": "Product editor showing the saved English description for a fictional feeder.",
+      "alt": {
+        "en": "Product editor showing the saved English description for a fictional feeder.",
+        "ar": "محرر المنتج يعرض الوصف الإنجليزي المحفوظ لمعلف افتراضي.",
+        "tr": "Ürün düzenleyicide kurgusal yemliğin kaydedilmiş İngilizce açıklaması."
+      },
+      "claim_ids": [
+        "C03"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S14",
+      "path": "originals/admin-web/14-admin-web-admin-en-ltr-dark-desktop-analytics.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Local visit analytics",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:02:05.574984+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/analytics",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Local visit analytics",
+      "description": "Analytics charts generated by local browser visits; these are demonstration figures.",
+      "caption": "Analytics charts generated by local browser visits; these are demonstration figures.",
+      "alt": {
+        "en": "Analytics charts generated by local browser visits; these are demonstration figures.",
+        "ar": "رسوم تحليلية ناتجة عن زيارات المتصفح المحلية؛ الأرقام تجريبية.",
+        "tr": "Yerel tarayıcı ziyaretlerinden oluşan analiz grafikleri; rakamlar demo verisidir."
+      },
+      "claim_ids": [
+        "C06"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S14-export",
+      "path": "exports/14-admin-web-admin-en-ltr-dark-desktop-analytics.png",
+      "status": "derivative",
+      "source_screenshot_id": "S14",
+      "surface": "admin-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Local visit analytics",
+      "role": "admin",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:02:05.574984+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/admin/analytics",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Local visit analytics",
+      "description": "Analytics charts generated by local browser visits; these are demonstration figures.",
+      "caption": "Analytics charts generated by local browser visits; these are demonstration figures.",
+      "alt": {
+        "en": "Analytics charts generated by local browser visits; these are demonstration figures.",
+        "ar": "رسوم تحليلية ناتجة عن زيارات المتصفح المحلية؛ الأرقام تجريبية.",
+        "tr": "Yerel tarayıcı ziyaretlerinden oluşan analiz grafikleri; rakamlar demo verisidir."
+      },
+      "claim_ids": [
+        "C06"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S01",
+      "path": "originals/public-web/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Public website overview",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:58:06.799625+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Public website overview",
+      "description": "Alawad English homepage with product catalog and inquiry actions.",
+      "caption": "Alawad English homepage with product catalog and inquiry actions.",
+      "alt": {
+        "en": "Alawad English homepage with product catalog and inquiry actions.",
+        "ar": "واجهة العواد الإنجليزية مع روابط الكتالوج والاستفسار.",
+        "tr": "Alawad İngilizce ana sayfasında katalog ve ürün talebi bağlantıları."
+      },
+      "claim_ids": [
+        "C01",
+        "C04"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S01-export",
+      "path": "exports/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "status": "derivative",
+      "source_screenshot_id": "S01",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Public website overview",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:58:06.799625+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Public website overview",
+      "description": "Alawad English homepage with product catalog and inquiry actions.",
+      "caption": "Alawad English homepage with product catalog and inquiry actions.",
+      "alt": {
+        "en": "Alawad English homepage with product catalog and inquiry actions.",
+        "ar": "واجهة العواد الإنجليزية مع روابط الكتالوج والاستفسار.",
+        "tr": "Alawad İngilizce ana sayfasında katalog ve ürün talebi bağlantıları."
+      },
+      "claim_ids": [
+        "C01",
+        "C04"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S02",
+      "path": "originals/public-web/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Catalog with synthetic products",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:31.146546+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Catalog with synthetic products",
+      "description": "Three fictional supply products with details and inquiry buttons.",
+      "caption": "Three fictional supply products with details and inquiry buttons.",
+      "alt": {
+        "en": "Three fictional supply products with details and inquiry buttons.",
+        "ar": "ثلاثة منتجات افتراضية مع أزرار التفاصيل والاستفسار.",
+        "tr": "Ayrıntı ve talep düğmeleriyle üç kurgusal tedarik ürünü."
+      },
+      "claim_ids": [
+        "C01",
+        "C03"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S02-export",
+      "path": "exports/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "status": "derivative",
+      "source_screenshot_id": "S02",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Catalog with synthetic products",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:31.146546+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/products",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Catalog with synthetic products",
+      "description": "Three fictional supply products with details and inquiry buttons.",
+      "caption": "Three fictional supply products with details and inquiry buttons.",
+      "alt": {
+        "en": "Three fictional supply products with details and inquiry buttons.",
+        "ar": "ثلاثة منتجات افتراضية مع أزرار التفاصيل والاستفسار.",
+        "tr": "Ayrıntı ve talep düğmeleriyle üç kurgusal tedarik ürünü."
+      },
+      "claim_ids": [
+        "C01",
+        "C03"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S03",
+      "path": "originals/public-web/03-public-web-visitor-en-ltr-light-desktop-product.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Product to inquiry",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:58:59.915888+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/product/demo-supply-3",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Product to inquiry",
+      "description": "Fictional poultry feeder detail page with a product inquiry action.",
+      "caption": "Fictional poultry feeder detail page with a product inquiry action.",
+      "alt": {
+        "en": "Fictional poultry feeder detail page with a product inquiry action.",
+        "ar": "صفحة معلف دواجن افتراضي مع رابط الاستفسار عن المنتج.",
+        "tr": "Kurgusal tavuk yemliği ayrıntısı ve ürün talebi bağlantısı."
+      },
+      "claim_ids": [
+        "C01",
+        "C02"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S03-export",
+      "path": "exports/03-public-web-visitor-en-ltr-light-desktop-product.png",
+      "status": "derivative",
+      "source_screenshot_id": "S03",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Product to inquiry",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:58:59.915888+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/product/demo-supply-3",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Product to inquiry",
+      "description": "Fictional poultry feeder detail page with a product inquiry action.",
+      "caption": "Fictional poultry feeder detail page with a product inquiry action.",
+      "alt": {
+        "en": "Fictional poultry feeder detail page with a product inquiry action.",
+        "ar": "صفحة معلف دواجن افتراضي مع رابط الاستفسار عن المنتج.",
+        "tr": "Kurgusal tavuk yemliği ayrıntısı ve ürün talebi bağlantısı."
+      },
+      "claim_ids": [
+        "C01",
+        "C02"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S04",
+      "path": "originals/public-web/04-public-web-visitor-en-ltr-light-desktop-inquiry-saved.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Inquiry saved",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:55.181876+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/contact-us?product=demo-supply-3#contact-form",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Inquiry saved",
+      "description": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+      "caption": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+      "alt": {
+        "en": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+        "ar": "النموذج يؤكد حفظ الاستفسار التجريبي؛ مساحة الخريطة المجاورة غير مفعلة.",
+        "tr": "Form kurgusal ürün talebinin kaydedildiğini doğruluyor; yanındaki harita alanı bağlantısız bir yer tutucu."
+      },
+      "claim_ids": [
+        "C02"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S04-export",
+      "path": "exports/04-public-web-visitor-en-ltr-light-desktop-inquiry-saved.png",
+      "status": "derivative",
+      "source_screenshot_id": "S04",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Inquiry saved",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T20:59:55.181876+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/contact-us?product=demo-supply-3#contact-form",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Inquiry saved",
+      "description": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+      "caption": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+      "alt": {
+        "en": "Public form confirms that the fictional product inquiry was saved. The adjacent map is an unconnected placeholder.",
+        "ar": "النموذج يؤكد حفظ الاستفسار التجريبي؛ مساحة الخريطة المجاورة غير مفعلة.",
+        "tr": "Form kurgusal ürün talebinin kaydedildiğini doğruluyor; yanındaki harita alanı bağlantısız bir yer tutucu."
+      },
+      "claim_ids": [
+        "C02"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S05",
+      "path": "originals/public-web/05-public-web-visitor-ar-rtl-dark-desktop-home.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic dark homepage",
+      "role": "visitor",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:00:32.360870+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic dark homepage",
+      "description": "Arabic right-to-left homepage using the built-in dark theme.",
+      "caption": "Arabic right-to-left homepage using the built-in dark theme.",
+      "alt": {
+        "en": "Arabic right-to-left homepage using the built-in dark theme.",
+        "ar": "الصفحة الرئيسية العربية باتجاه من اليمين إلى اليسار والمظهر الداكن المدمج.",
+        "tr": "Yerleşik koyu temada sağdan sola düzenlenen Arapça ana sayfa."
+      },
+      "claim_ids": [
+        "C04"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S05-export",
+      "path": "exports/05-public-web-visitor-ar-rtl-dark-desktop-home.png",
+      "status": "derivative",
+      "source_screenshot_id": "S05",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic dark homepage",
+      "role": "visitor",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "dark",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:00:32.360870+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic dark homepage",
+      "description": "Arabic right-to-left homepage using the built-in dark theme.",
+      "caption": "Arabic right-to-left homepage using the built-in dark theme.",
+      "alt": {
+        "en": "Arabic right-to-left homepage using the built-in dark theme.",
+        "ar": "الصفحة الرئيسية العربية باتجاه من اليمين إلى اليسار والمظهر الداكن المدمج.",
+        "tr": "Yerleşik koyu temada sağdan sola düzenlenen Arapça ana sayfa."
+      },
+      "claim_ids": [
+        "C04"
+      ],
+      "recommended_placements": [
+        "README",
+        "portfolio",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S06",
+      "path": "originals/public-web/06-public-web-visitor-ar-rtl-light-mobile-home.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "responsive web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic responsive homepage",
+      "role": "visitor",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:02.840759+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic responsive homepage",
+      "description": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+      "caption": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+      "alt": {
+        "en": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+        "ar": "الصفحة العربية في نافذة متصفح بعرض 390 بكسل مع عناصر قائمة الهاتف.",
+        "tr": "390 piksel genişliğindeki tarayıcıda mobil menülü Arapça ana sayfa."
+      },
+      "claim_ids": [
+        "C04"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S06-export",
+      "path": "exports/06-public-web-visitor-ar-rtl-light-mobile-home.png",
+      "status": "derivative",
+      "source_screenshot_id": "S06",
+      "surface": "public-web",
+      "platform": "responsive web",
+      "device": "browser viewport; no native device",
+      "screen": "Arabic responsive homepage",
+      "role": "visitor",
+      "language": "ar",
+      "direction": "rtl",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:01:02.840759+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/ar",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Arabic responsive homepage",
+      "description": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+      "caption": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+      "alt": {
+        "en": "Arabic homepage in a 390-pixel-wide browser viewport, with mobile menu controls.",
+        "ar": "الصفحة العربية في نافذة متصفح بعرض 390 بكسل مع عناصر قائمة الهاتف.",
+        "tr": "390 piksel genişliğindeki tarayıcıda mobil menülü Arapça ana sayfa."
+      },
+      "claim_ids": [
+        "C04"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    },
+    {
+      "id": "S13",
+      "path": "originals/public-web/13-public-web-visitor-en-ltr-light-desktop-news.png",
+      "status": "original",
+      "source_screenshot_id": null,
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Editorial content",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:02:05.371684+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/news/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Editorial content",
+      "description": "Featured news card containing a fictional seasonal supply planning article.",
+      "caption": "Featured news card containing a fictional seasonal supply planning article.",
+      "alt": {
+        "en": "Featured news card containing a fictional seasonal supply planning article.",
+        "ar": "بطاقة خبر مميز بمقال افتراضي حول تخطيط التوريد الموسمي.",
+        "tr": "Kurgusal mevsimlik tedarik planlama yazısını gösteren öne çıkan haber kartı."
+      },
+      "claim_ids": [
+        "C07"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics."
+    },
+    {
+      "id": "S13-export",
+      "path": "exports/13-public-web-visitor-en-ltr-light-desktop-news.png",
+      "status": "derivative",
+      "source_screenshot_id": "S13",
+      "surface": "public-web",
+      "platform": "desktop web",
+      "device": "browser viewport; no native device",
+      "screen": "Editorial content",
+      "role": "visitor",
+      "language": "en",
+      "direction": "ltr",
+      "theme": "light",
+      "width": 65536,
+      "height": 4292542531,
+      "viewport": {
+        "width": 65536,
+        "height": 4292542531,
+        "device_scale_factor": 1
+      },
+      "capture_method": "Codex in-app browser PNG viewport screenshot",
+      "captured_at": "2026-09-21T21:02:05.371684+00:00",
+      "source_revision": null,
+      "working_tree_status": "No .git metadata; isolated runtime copy, original source unchanged",
+      "route": "/news/",
+      "demo_scenario": "Synthetic supply catalog, Demo Buyer inquiry, demo admin accounts; existing public brand/UI translations",
+      "title": "Editorial content",
+      "description": "Featured news card containing a fictional seasonal supply planning article.",
+      "caption": "Featured news card containing a fictional seasonal supply planning article.",
+      "alt": {
+        "en": "Featured news card containing a fictional seasonal supply planning article.",
+        "ar": "بطاقة خبر مميز بمقال افتراضي حول تخطيط التوريد الموسمي.",
+        "tr": "Kurgusal mevsimlik tedarik planlama yazısını gösteren öne çıkan haber kartı."
+      },
+      "claim_ids": [
+        "C07"
+      ],
+      "recommended_placements": [
+        "social",
+        "case-study"
+      ],
+      "crop_guidance": "Preserve text and controls; fit entire screenshot when possible. Do not remove demo labels.",
+      "privacy_review": "Visually inspected; only fictional inquiry/account data. Local counts are not business metrics.",
+      "transformation": "Byte-identical portable PNG copy; no cropping, resizing or UI edits"
+    }
+  ],
+  "copies": [
+    {
+      "path": "linkedin/ragipmullamusa/project-profile/images/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "source_screenshot_id": "S01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/project-profile/images/05-public-web-visitor-ar-rtl-dark-desktop-home.png",
+      "source_screenshot_id": "S05",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/project-profile/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "source_screenshot_id": "S01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "source_screenshot_id": "S02",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/03-public-web-visitor-en-ltr-light-desktop-product.png",
+      "source_screenshot_id": "S03",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/05-public-web-visitor-ar-rtl-dark-desktop-home.png",
+      "source_screenshot_id": "S05",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ragipmullamusa/content/images/12-admin-web-admin-en-ltr-dark-desktop-edit-product.png",
+      "source_screenshot_id": "S12",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/project-profile/images/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "source_screenshot_id": "S01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/project-profile/images/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "source_screenshot_id": "S02",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/project-profile/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "source_screenshot_id": "S01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "source_screenshot_id": "S02",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/03-public-web-visitor-en-ltr-light-desktop-product.png",
+      "source_screenshot_id": "S03",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/07-admin-web-super-admin-en-ltr-light-desktop-dashboard.png",
+      "source_screenshot_id": "S07",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "linkedin/ideabatcom/content/images/11-admin-web-admin-en-ltr-dark-desktop-products.png",
+      "source_screenshot_id": "S11",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/portfolio/images/01-public-web-visitor-en-ltr-light-desktop-home.png",
+      "source_screenshot_id": "S01",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/portfolio/images/05-public-web-visitor-ar-rtl-dark-desktop-home.png",
+      "source_screenshot_id": "S05",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/portfolio/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/case-study/images/02-public-web-visitor-en-ltr-light-desktop-catalog.png",
+      "source_screenshot_id": "S02",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/case-study/images/03-public-web-visitor-en-ltr-light-desktop-product.png",
+      "source_screenshot_id": "S03",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/case-study/images/04-public-web-visitor-en-ltr-light-desktop-inquiry-saved.png",
+      "source_screenshot_id": "S04",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/case-study/images/08-admin-web-super-admin-en-ltr-light-desktop-inquiry.png",
+      "source_screenshot_id": "S08",
+      "transformation": "byte-identical copy"
+    },
+    {
+      "path": "ideabat-com/case-study/images/12-admin-web-admin-en-ltr-dark-desktop-edit-product.png",
+      "source_screenshot_id": "S12",
+      "transformation": "byte-identical copy"
+    }
+  ],
+  "notes": [
+    "14 authentic captures; exports are copies, not new captures.",
+    "Product/news images are existing application placeholder assets attached to synthetic records in the local database.",
+    "S01 hero illustration is part of the existing homepage, not an operational dashboard."
+  ]
+}
